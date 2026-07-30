@@ -332,3 +332,326 @@ Currently Learning:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer"/>
 
 </div>
+# 🖥️ DevOps Terminal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=%24+ssh+dinesh%40devops;Authentication+Successful...;Loading+Linux+Environment...;Starting+Docker+Engine...;Connecting+to+AWS...;Deploying+Kubernetes+Cluster...;CI%2FCD+Pipeline+Running...;Deployment+Successful+🚀"/>
+
+</div>
+
+```
+$ fastfetch
+
+OS           : Ubuntu Linux
+Shell        : Bash
+Editor       : VS Code
+Cloud        : AWS
+Containers   : Docker
+Orchestration: Kubernetes
+CI/CD        : GitLab CI/CD
+Languages    : Bash | YAML | Python
+Database     : MySQL | MongoDB
+Status       : Ready for Production 🚀
+```
+
+---
+
+# ☁️ DevOps Lifecycle
+
+```text
+       Plan
+        │
+        ▼
+      Code
+        │
+        ▼
+      Build
+        │
+        ▼
+       Test
+        │
+        ▼
+     Release
+        │
+        ▼
+      Deploy
+        │
+        ▼
+     Operate
+        │
+        ▼
+      Monitor
+        ▲
+        └───────────────
+```
+
+---
+
+# ⚡ Core Technologies
+
+<div align="center">
+
+| Linux | AWS | Docker | Kubernetes |
+|:-----:|:---:|:------:|:----------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ |
+
+| Git | GitHub | GitLab | Bash |
+|:---:|:------:|:------:|:----:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 🎖️ Certifications (In Progress)
+
+- 🐧 Linux Administration
+- ☁️ AWS Cloud Practitioner
+- 🐳 Docker Essentials
+- ☸️ Kubernetes Fundamentals
+- ⚙️ GitLab CI/CD
+- 📦 Terraform Basics
+
+---
+
+<div align="center">
+
+## 🚀 Automate Everything
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=3"/>
+
+</div>
+# ☁️ Cloud & DevOps Architecture
+
+<div align="center">
+
+```text
+                 👨‍💻 Developer
+                      │
+                      ▼
+             Git Push (GitHub)
+                      │
+                      ▼
+              GitLab CI/CD Pipeline
+                      │
+        ┌─────────────┴─────────────┐
+        ▼                           ▼
+    Docker Build              Docker Hub
+        │                           │
+        └─────────────┬─────────────┘
+                      ▼
+               Kubernetes Cluster
+        ┌─────────────┼─────────────┐
+        ▼             ▼             ▼
+      Pod 1         Pod 2         Pod 3
+        │             │             │
+        └─────────────┼─────────────┘
+                      ▼
+             Load Balancer (AWS ALB)
+                      │
+                      ▼
+                  End Users 🌍
+```
+
+</div>
+
+---
+
+# 🚀 DevOps Workflow
+
+<div align="center">
+
+```text
+💻 Code
+   │
+   ▼
+📂 GitHub
+   │
+   ▼
+⚙️ GitLab CI/CD
+   │
+   ▼
+🐳 Docker Build
+   │
+   ▼
+📦 Docker Image
+   │
+   ▼
+☸ Kubernetes
+   │
+   ▼
+☁ AWS Cloud
+   │
+   ▼
+🌍 Production
+```
+
+</div>
+
+---
+
+# 📌 Learning Timeline
+
+| Year | Journey |
+|------|---------|
+| 🎓 2022 | Started B.Tech AI & DS |
+| 🐧 2023 | Linux Administration |
+| ☁️ 2024 | AWS Cloud |
+| 🐳 2025 | Docker & Kubernetes |
+| ⚙️ 2026 | DevOps & GitLab CI/CD |
+| 🚀 Future | Senior DevOps Engineer |
+
+---
+
+# 🧰 Daily Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,git,github,gitlab,vscode,py,mysql,mongodb&perline=6"/>
+
+</div>
+
+---
+
+# 📊 DevOps Mindset
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build Projects
+  ↓
+Automate Tasks
+  ↓
+Deploy
+  ↓
+Monitor
+  ↓
+Improve
+  ↺ Repeat
+```
+
+---
+
+# 🌟 Fun Facts
+
+- 🐧 Linux is my favorite operating system.
+- ☁️ I enjoy designing cloud infrastructure.
+- 🐳 Containerization makes deployment easier.
+- ☸️ Kubernetes is my current learning focus.
+- 🚀 I love automating repetitive tasks.
+
+---
+
+<div align="center">
+
+### ⚡ "Keep Learning. Keep Building. Keep Automating."
+
+</div>
+
+---
+# 🏅 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DK-dotcom-910&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+
+</div>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+<div align="center">
+
+<!-- Replace with WakaTime when available -->
+
+```text
+Linux Administration    ████████████████████ 40%
+
+AWS Cloud               ████████████████░░░░ 30%
+
+Docker                  ████████████░░░░░░░░ 15%
+
+Kubernetes              ████████░░░░░░░░░░░░ 10%
+
+Learning & Research     ████░░░░░░░░░░░░░░░░ 5%
+```
+
+</div>
+
+---
+
+# ⚡ DevOps Command Line
+
+```bash
+$ whoami
+Dineshkumar M
+
+$ role
+Linux Administrator | AWS Cloud | DevOps Engineer
+
+$ skills
+Linux
+AWS
+Docker
+Kubernetes
+Git
+GitLab CI/CD
+Bash
+
+$ mission
+Automate Everything 🚀
+
+$ status
+Available for DevOps Opportunities ✅
+```
+
+---
+
+# 🌍 Open Source Goals
+
+- 🌱 Learn every day
+- 🐧 Master Linux Administration
+- ☁️ Build scalable AWS infrastructure
+- 🐳 Create production-ready Docker projects
+- ☸️ Deploy Kubernetes applications
+- ⚙️ Automate infrastructure with CI/CD
+- 🤝 Contribute to Open Source
+- 🚀 Become a Professional DevOps Engineer
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:dineshkumarofficial910@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dinesh-kumar-a05455409">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DK-dotcom-910">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting My Profile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Automating...;See+You+Again!+👋"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F172A,30:1E3A8A,70:2563EB,100:38BDF8"/>
+
+</div>
