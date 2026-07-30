@@ -539,38 +539,6 @@ Improve
 ### ⚡ "Keep Learning. Keep Building. Keep Automating."
 
 </div>
-
----
-# 🏅 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DK-dotcom-910&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</div>
-
----
-
-# 📊 Weekly Development Breakdown
-
-<div align="center">
-
-<!-- Replace with WakaTime when available -->
-
-```text
-Linux Administration    ████████████████████ 40%
-
-AWS Cloud               ████████████████░░░░ 30%
-
-Docker                  ████████████░░░░░░░░ 15%
-
-Kubernetes              ████████░░░░░░░░░░░░ 10%
-
-Learning & Research     ████░░░░░░░░░░░░░░░░ 5%
-```
-
-</div>
-
 ---
 
 # ⚡ DevOps Command Line
