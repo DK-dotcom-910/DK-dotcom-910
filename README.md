@@ -226,33 +226,12 @@ Currently Learning:
 </div>
 
 ---
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DK-dotcom-910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-dotcom-910&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DK-dotcom-910&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DK-dotcom-910&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
