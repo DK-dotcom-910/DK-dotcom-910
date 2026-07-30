@@ -404,17 +404,6 @@ Status       : Ready for Production 🚀
 
 ---
 
-# 🎖️ Certifications (In Progress)
-
-- 🐧 Linux Administration
-- ☁️ AWS Cloud Practitioner
-- 🐳 Docker Essentials
-- ☸️ Kubernetes Fundamentals
-- ⚙️ GitLab CI/CD
-- 📦 Terraform Basics
-
----
-
 <div align="center">
 
 ## 🚀 Automate Everything
