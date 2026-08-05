@@ -1,578 +1,1201 @@
 <!-- ===================================================== -->
-<!--                  HERO SECTION                          -->
+<!--                JARVIS DEVOPS PROFILE                  -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Dineshkumar M</h1>
+<div align="center">
 
-<h3 align="center">
-Linux Administrator • AWS Cloud • DevOps Engineer
-</h3>
+# 🤖 Dineshkumar M
 
-<p align="center">
+### Linux Administrator • AWS Cloud • DevOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Linux+Administrator;AWS+Cloud+Engineer;DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Linux+Administrator;AWS+Cloud+Engineer;DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;Learning+Cloud+Technologies;Welcome+to+My+GitHub+Profile"/>
 
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,60:2C5364,100:00C6FF&height=250&section=header&text=JARVIS%20ONLINE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20AWS%20%7C%20DevOps&descAlignY=60"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/DK-dotcom-910">
-<img src="https://img.shields.io/github/followers/DK-dotcom-910?label=Followers&style=for-the-badge"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://dk-dotcom-910.github.io/DevOps-Portfolio/)
 
-<a href="https://github.com/DK-dotcom-910">
-<img src="https://img.shields.io/github/stars/DK-dotcom-910?affiliations=OWNER&style=for-the-badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dineshkumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dinesh-kumar-a05455409/)
 
-<img src="https://komarev.com/ghpvc/?username=DK-dotcom-910&style=for-the-badge"/>
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:dineshkumarofficial910@gmail.com)
 
-</p>
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Dineshkumar M**, an aspiring **DevOps Engineer** passionate about building scalable cloud infrastructure and automating software delivery.
+```yaml
+Name        : Dineshkumar M
 
-I enjoy solving real-world infrastructure problems using Linux, AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines.
+Location    : Bengaluru, Karnataka, India
 
-Currently, I'm expanding my expertise by working on cloud-native applications, automation, and AI-powered projects.
+Role        : Linux Administrator | AWS | DevOps
 
----
+Experience  : DevOps Intern
 
-# 🚀 Current Focus
+Status      : Open to Work
 
-- 🌱 Learning Advanced DevOps
-- ☁️ AWS Cloud Infrastructure
-- 🐳 Docker & Kubernetes
-- 🌍 Terraform Infrastructure as Code
-- ⚙️ GitLab CI/CD Pipelines
-- 🤖 AI Voice Assistant (Jarvis AI)
-- 🐧 Linux System Administration
-
----
-
-# 🎯 Career Objective
-
-> To become a highly skilled DevOps Engineer specializing in Cloud Infrastructure, Kubernetes, Automation, and Platform Engineering while continuously learning modern technologies.
-
----
-
-# 📍 Location
-
-🏙️ Bengaluru, Karnataka, India
-
----
-
-# 🛠️ Tech Stack
-
-## Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
----
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-</p>
-
----
-
-## DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,github"/>
-
-</p>
-
----
-
-## Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,bash"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
-
-</p>
-
----
-
-# 💡 Technical Skills
-
-| Category | Technologies |
-|----------|--------------|
-| Operating System | Linux (Ubuntu), Windows |
-| Cloud | AWS |
-| Containers | Docker |
-| Orchestration | Kubernetes |
-| Infrastructure as Code | Terraform |
-| Version Control | Git, GitHub |
-| CI/CD | GitLab CI/CD |
-| Scripting | Bash, Python |
-| Networking | TCP/IP, DNS, HTTP, SSH |
-| Monitoring | Learning Prometheus & Grafana |
-
----
-
-# 📚 Currently Learning
-
-```text
-✔ Kubernetes
-✔ Terraform
-✔ Jenkins
-✔ GitHub Actions
-✔ Advanced Linux
-✔ AWS DevOps
-✔ Python Automation
+Focus        : Linux • AWS • Docker • Kubernetes
 ```
 
 ---
 
-# ⚡ Fun Fact
+# 🚀 Mission
 
-> "Automation is not about replacing people,
-> it's about empowering people."
+> Passionate about Cloud Computing, Linux Administration and DevOps Automation.
+
+I enjoy building cloud infrastructure, automating deployments and learning modern DevOps technologies.
 
 ---
 
-## 📫 Connect With Me
+# ⚡ Current Focus
 
-<p align="left">
+- 🐧 Linux Administration
 
-<a href="mailto:dineshkumarofficial910@gmail.com">
+- ☁ AWS Cloud
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+- 🐳 Docker
 
-</a>
+- ☸ Kubernetes
 
-<a href="https://www.linkedin.com/in/dinesh-kumar-a05455409/">
+- 🌍 Terraform
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+- ⚙ GitLab CI/CD
 
-</a>
+- 💻 Bash Scripting
 
-<a href="https://github.com/DK-dotcom-910">
+- 🤖 AI Jarvis Assistant
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+---
 
-</a>
+# 🛠 Tech Stack
 
-<a href="https://dk-dotcom-910.github.io/DevOps-Portfolio/">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+## Operating Systems
 
-</a>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+
+<br><br>
+
+## Cloud
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<br><br>
+
+## Containers
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+
+<br><br>
+
+## Infrastructure as Code
+
+<img src="https://skillicons.dev/icons?i=terraform"/>
+
+<br><br>
+
+## Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+<br><br>
+
+## CI/CD
+
+<img src="https://skillicons.dev/icons?i=gitlab"/>
+
+<br><br>
+
+## Scripting
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
+</div>
+
+---
+
+# 📊 JARVIS SYSTEM STATUS
+
+```text
+███████████████████████████████████████████
+
+SYSTEM STATUS        : ONLINE
+
+LINUX                : ██████████████
+
+AWS                  : █████████████
+
+DOCKER               : █████████████
+
+KUBERNETES           : ███████████
+
+TERRAFORM            : ██████████
+
+GITLAB CI/CD         : ██████████
+
+BASH SCRIPTING       : ███████████
+
+MISSION              : DEVOPS ENGINEER
+
+███████████████████████████████████████████
+```
+
+---
+
+# 💡 Core Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| 🐧 Operating System | Linux (Ubuntu), Windows |
+| ☁ Cloud | AWS |
+| 🐳 Containers | Docker |
+| ☸ Orchestration | Kubernetes |
+| 🌍 IaC | Terraform |
+| ⚙ CI/CD | GitLab CI/CD |
+| 🔥 Version Control | Git & GitHub |
+| 💻 Scripting | Bash |
+
+---
+
+# 🎯 Currently Learning
+
+```text
+✔ Advanced Linux
+
+✔ AWS Cloud
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Terraform
+
+✔ GitLab CI/CD
+
+✔ Infrastructure Automation
+
+✔ DevOps Best Practices
+```
+
+---
+
+<div align="center">
+
+## ⚡ "Automate Everything. Learn Every Day."
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C6FF&height=3"/>
 
 </p>
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**
 <!-- ===================================================== -->
-<!--              FEATURED PROJECTS                        -->
+<!--                 FEATURED PROJECTS                     -->
 <!-- ===================================================== -->
+
+<div align="center">
 
 # 🚀 Featured Projects
 
-## 🤖 AI JARVIS Assistant
+*"Learning by Building Real-World Projects"*
 
-> An AI-powered desktop assistant built using Python that responds to voice commands and automates daily tasks.
+</div>
+
+---
+
+## 🤖 JARVIS AI Assistant
+
+<table>
+<tr>
+
+<td width="65%">
 
 ### Features
 
-- 🎤 Voice Command Recognition
-- 🤖 AI Conversation
-- 🌐 Open Websites
+- 🎤 Voice Recognition
+- 🌐 Browser Automation
 - 📂 Open Applications
-- 📸 Screenshot Capture
 - 🔊 Text-to-Speech
-- 🖥️ Modern Desktop UI
-
-### Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-🔗 Repository:
-
-https://github.com/DK-dotcom-910/YOUR_REPOSITORY_NAME
-
----
-
-## ☁️ AWS 3-Tier Architecture
-
-Designed and deployed a highly available AWS infrastructure.
-
-### Services Used
-
-- Amazon VPC
-- EC2
-- Application Load Balancer
-- Auto Scaling
-- RDS
-- IAM
-- Security Groups
-
-### Highlights
-
-- Highly Available Architecture
-- Public & Private Subnets
-- Internet Gateway
-- NAT Gateway
-- Secure Networking
-
-🔗 Repository
-
-https://github.com/DK-dotcom-910/YOUR_REPOSITORY_NAME
-
----
-
-## 🐳 Docker Containerization
-
-Containerized Python applications using Docker.
-
-### Features
-
-- Dockerfile
-- Docker Compose
-- Multi-container Deployment
-- Image Optimization
-
-### Tools
-
-Docker
-
-Docker Compose
-
-Linux
-
-🔗 Repository
-
-https://github.com/DK-dotcom-910/YOUR_REPOSITORY_NAME
-
----
-
-## ☸ Kubernetes Deployment
-
-Deploying applications on Kubernetes.
-
-### Topics Covered
-
-- Pods
-- ReplicaSets
-- Deployments
-- Services
-- ConfigMaps
-- Secrets
-- Ingress
-
-🔗 Repository
-
-https://github.com/DK-dotcom-910/YOUR_REPOSITORY_NAME
-
----
-
-## 🌍 Terraform Infrastructure
-
-Provisioning AWS infrastructure using Infrastructure as Code.
-
-### Services
-
-- EC2
-- VPC
-- Security Groups
-- IAM
-- Variables
-- Outputs
-
-🔗 Repository
-
-https://github.com/DK-dotcom-910/YOUR_REPOSITORY_NAME
-
----
-
-## ⚙ GitLab CI/CD Pipeline
-
-Automated build and deployment pipeline.
-
-### Pipeline Includes
-
-- Source Checkout
-- Build
-- Docker Image Creation
-- Testing
-- Deployment
+- 💬 AI Conversation
+- 📸 Screenshot Capture
+- 🖥 Modern Desktop Interface
 
 ### Technologies
 
-GitLab
+Linux • Bash • Speech Recognition • OpenAI • Automation
 
-Docker
+🔗 **Repository**
 
-Linux
+https://github.com/DK-dotcom-910/YOUR_REPO_NAME
 
-CI/CD
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ☁ AWS Cloud Projects
+
+### Services Used
+
+✅ EC2
+
+✅ IAM
+
+✅ VPC
+
+✅ Security Groups
+
+✅ Load Balancer
+
+✅ Auto Scaling
+
+✅ RDS
+
+✅ CloudWatch
 
 🔗 Repository
 
-https://github.com/DK-dotcom-910/YOUR_REPOSITORY_NAME
+https://github.com/DK-dotcom-910/YOUR_REPO_NAME
 
 ---
 
-# 📊 GitHub Statistics
+## 🐳 Docker Projects
+
+### Highlights
+
+✔ Docker Images
+
+✔ Dockerfile
+
+✔ Docker Compose
+
+✔ Container Networking
+
+✔ Multi Container Applications
+
+✔ Image Optimization
+
+🔗 Repository
+
+https://github.com/DK-dotcom-910/YOUR_REPO_NAME
+
+---
+
+## ☸ Kubernetes Projects
+
+### Topics
+
+✔ Pods
+
+✔ ReplicaSets
+
+✔ Deployments
+
+✔ Services
+
+✔ ConfigMaps
+
+✔ Secrets
+
+✔ Ingress
+
+✔ Scaling
+
+🔗 Repository
+
+https://github.com/DK-dotcom-910/YOUR_REPO_NAME
+
+---
+
+## 🌍 Terraform Projects
+
+### Infrastructure as Code
+
+✔ AWS Infrastructure
+
+✔ EC2
+
+✔ VPC
+
+✔ Variables
+
+✔ Outputs
+
+✔ Modules
+
+✔ Remote State
+
+🔗 Repository
+
+https://github.com/DK-dotcom-910/YOUR_REPO_NAME
+
+---
+
+## ⚙ GitLab CI/CD
+
+### Pipeline
+
+✔ Git
+
+✔ GitLab
+
+✔ Build
+
+✔ Test
+
+✔ Docker Build
+
+✔ Deploy
+
+✔ Linux Server
+
+🔗 Repository
+
+https://github.com/DK-dotcom-910/YOUR_REPO_NAME
+
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+</div>
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DK-dotcom-910&show_icons=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=DK-dotcom-910&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=DK-dotcom-910&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=DK-dotcom-910&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
+<div align="center">
 
 # 💻 Most Used Languages
 
-<p align="center">
-
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-dotcom-910&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-dotcom-910&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Activity Graph
+<div align="center">
 
-<p align="center">
+# 🏆 GitHub Trophies
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=DK-dotcom-910&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=DK-dotcom-910&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=DK-dotcom-910&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img
-src="https://ghchart.rshah.org/DK-dotcom-910"/>
-
-</p>
-
----
-
-# 📈 Coding Activity
-
-- 🐧 Linux Administration
-- ☁ AWS Cloud
-- 🐳 Docker
-- ☸ Kubernetes
-- 🌍 Terraform
-- ⚙ GitLab CI/CD
-- 🐍 Python Automation
-- 🤖 AI Development
-
----
-
-## 🎯 Current Mission
+# ⚡ Current DevOps Journey
 
 ```text
-✔ Build Enterprise DevOps Projects
-✔ Master Kubernetes
-✔ Learn Jenkins
-✔ Terraform on AWS
-✔ GitHub Actions
-✔ AI Automation
-✔ Cloud Security
-✔ Platform Engineering
+🐧 Linux
+      │
+      ▼
+☁ AWS Cloud
+      │
+      ▼
+🐳 Docker
+      │
+      ▼
+☸ Kubernetes
+      │
+      ▼
+🌍 Terraform
+      │
+      ▼
+⚙ GitLab CI/CD
+      │
+      ▼
+🚀 DevOps Engineer
 ```
+
+---
+
+<div align="center">
+
+## 💙 "Every Project Makes Me Better Than Yesterday."
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0F2027&height=3"/>
+
+</p>
 <!-- ===================================================== -->
-<!--          EXPERIENCE • LEARNING • CONTACT              -->
+<!--           EXPERIENCE • CONTACT • FOOTER               -->
 <!-- ===================================================== -->
+
+<div align="center">
 
 # 💼 Internship Experience
 
-## DevOps Intern
+</div>
 
-🏢 **Company:** *Your Company Name*
+## 🚀 DevOps Intern
 
-📅 **Duration:** *Month Year – Month Year*
+🏢 **Company:** <VSPHERE TECHNOLOGIES>
+
+📅 **Duration:** Jan 2026 – July 2026
 
 ### Responsibilities
 
-- 🐧 Worked with Linux Administration
-- ☁️ Learned AWS Cloud Services
-- 🐳 Built Docker Containers
-- ⚙️ Practiced CI/CD Concepts
-- 🌍 Learned Infrastructure Automation
-- 📂 Worked with Git & GitHub
-- 🛠️ Basic Shell Scripting
-
----
-
-# 🚀 Current Learning
-
-I believe in continuous learning and hands-on practice.
-
-Currently improving my skills in:
-
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸ Kubernetes
-- 🌍 Terraform
-- ⚙ GitLab CI/CD
 - 🐧 Linux Administration
-- 🐍 Python Automation
-- 📊 Prometheus & Grafana
+- ☁ AWS Cloud Fundamentals
+- 🐳 Docker Containerization
+- 🌍 Terraform Basics
+- ⚙ GitLab CI/CD Pipelines
+- 🔥 Git & GitHub Version Control
+- 💻 Bash Shell Scripting
 
 ---
+
+<div align="center">
 
 # 🎯 Career Objective
 
-I am passionate about Cloud Computing and DevOps.
+</div>
 
-My goal is to become a highly skilled DevOps Engineer by building real-world projects, learning modern cloud technologies, and contributing to automation-driven infrastructure.
+> Passionate about Linux, Cloud Computing, and DevOps.
+
+My goal is to become a highly skilled DevOps Engineer by building scalable cloud infrastructure, automating deployments, and continuously learning modern technologies.
 
 ---
+
+<div align="center">
+
+# 📚 Currently Learning
+
+</div>
+
+```text
+🐧 Advanced Linux
+
+☁ AWS Cloud
+
+🐳 Docker
+
+☸ Kubernetes
+
+🌍 Terraform
+
+⚙ GitLab CI/CD
+
+📊 Prometheus
+
+📈 Grafana
+```
+
+---
+
+<div align="center">
 
 # 🤝 Open To Work
 
-I'm currently looking for opportunities as:
+</div>
 
-- Linux Administrator
-- DevOps Engineer
-- AWS Cloud Engineer
-- Cloud Support Engineer
-- Site Reliability Engineer (SRE)
+✅ Linux Administrator
 
----
+✅ AWS Cloud Engineer
 
-# 📈 What I'm Working On
+✅ DevOps Engineer
 
-🚀 AI Jarvis Assistant
+✅ Cloud Support Engineer
 
-☁ AWS Infrastructure Projects
-
-🐳 Docker Containerization
-
-☸ Kubernetes Deployments
-
-🌍 Terraform Infrastructure
-
-⚙ GitLab CI/CD Pipelines
-
-🐧 Linux Automation
+✅ Site Reliability Engineer (SRE)
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+# 📊 GitHub Analytics
 
-<a href="mailto:dineshkumarofficial910@gmail.com">
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=DK-dotcom-910&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=DK-dotcom-910&theme=tokyonight&hide_border=true"/>
 
-</a>
+<br><br>
 
-<a href="https://www.linkedin.com/in/dinesh-kumar-a05455409/">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-dotcom-910&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://github.com/DK-dotcom-910">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://dk-dotcom-910.github.io/DevOps-Portfolio/">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Contribution
+<div align="center">
 
-<p align="center">
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=DK-dotcom-910&theme=tokyonight&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DK-dotcom-910&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
+
+<div align="center">
+
+# 📬 Connect With Me
+
+<a href="mailto:dineshkumarofficial910@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dinesh-kumar-a05455409/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/DK-dotcom-910">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://dk-dotcom-910.github.io/DevOps-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 # 🐍 Contribution Snake
 
-<p align="center">
+> Enable this after creating the GitHub Actions workflow.
 
 <img src="https://raw.githubusercontent.com/DK-dotcom-910/DK-dotcom-910/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
-> **Note:** This snake animation will work after you create the GitHub Action workflow. I can help you set that up later.
+</div>
 
 ---
 
-# 💬 Favorite Quote
+<div align="center">
 
-> **"Automate everything that can be automated, and keep learning every day."**
+# 💙 Quote
+
+### "Automate Everything. Learn Every Day."
+
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:203A43,70:2C5364,100:00C6FF&height=150&section=footer"/>
+
+</div>
+<!-- ===================================================== -->
+<!--           🤖 JARVIS OPERATING SYSTEM                  -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🤖 JARVIS OPERATING SYSTEM
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║          JARVIS AI SYSTEM ONLINE             ║
+║                                              ║
+║  USER        : DINESHKUMAR M                 ║
+║  ROLE        : DEVOPS ENGINEER               ║
+║  LOCATION    : BENGALURU, INDIA             ║
+║  STATUS      : ONLINE 🟢                     ║
+║  SECURITY    : ACTIVE 🔒                     ║
+║  TERMINAL    : CONNECTED 💻                 ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ LIVE SYSTEM STATUS
+
+</div>
+
+```text
+🖥 CPU STATUS
+
+██████████████████░░░░ 80%
+
+🧠 MEMORY
+
+██████████████░░░░░░░ 70%
+
+🌐 NETWORK
+
+████████████████████ 100%
+
+☁ AWS
+
+████████████████░░░░ 85%
+
+🐳 DOCKER
+
+██████████████░░░░░░ 70%
+
+☸ KUBERNETES
+
+████████████░░░░░░░░ 60%
+
+🌍 TERRAFORM
+
+██████████░░░░░░░░░░ 50%
+
+⚙ GITLAB CI/CD
+
+████████████░░░░░░░░ 60%
+
+🐧 LINUX
+
+███████████████████░ 95%
+```
+
+---
+
+<div align="center">
+
+# 🚀 DEVOPS ROADMAP
+
+</div>
+
+```text
+🐧 Linux
+      │
+      ▼
+🌐 Networking
+      │
+      ▼
+🔥 Git & GitHub
+      │
+      ▼
+☁ AWS
+      │
+      ▼
+🐳 Docker
+      │
+      ▼
+☸ Kubernetes
+      │
+      ▼
+🌍 Terraform
+      │
+      ▼
+⚙ GitLab CI/CD
+      │
+      ▼
+📊 Monitoring
+      │
+      ▼
+🚀 DevOps Engineer
+```
+
+---
+
+<div align="center">
+
+# 📡 CURRENT MISSION
+
+</div>
+
+```yaml
+Current Goal:
+  Become a Professional DevOps Engineer
+
+Currently Learning:
+  - Linux Administration
+  - AWS Cloud
+  - Docker
+  - Kubernetes
+  - Terraform
+  - GitLab CI/CD
+
+Current Project:
+  - AI JARVIS Assistant
+
+Next Target:
+  - Production Ready AWS Infrastructure
+```
+
+---
+
+<div align="center">
+
+# ⚙ TECHNOLOGY MATRIX
+
+| Technology | Status |
+|------------|--------|
+| 🐧 Linux | ✅ Active |
+| ☁ AWS | ✅ Active |
+| 🐳 Docker | ✅ Active |
+| ☸ Kubernetes | ✅ Learning |
+| 🌍 Terraform | ✅ Learning |
+| ⚙ GitLab CI/CD | ✅ Active |
+| 💻 Bash | ✅ Active |
+| 🔥 Git & GitHub | ✅ Active |
+
+</div>
+
+---
+
+<div align="center">
+
+# 💙 DEVOPS PHILOSOPHY
+
+> **"Build. Automate. Deploy. Repeat."**
+
+> **"Learning Never Stops."**
+
+> **"Small Improvements Every Day Lead to Big Results."**
+
+</div>
+
+---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0F2027&height=3"/>
+
+</p>
+<!-- ===================================================== -->
+<!--                🤖 JARVIS COMMAND CENTER               -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# 🖥 JARVIS COMMAND CENTER
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  JARVIS AI TERMINAL                                          │
+│                                                              │
+│  User           : Dineshkumar M                              │
+│  Access Level   : Administrator                              │
+│  Terminal       : Connected                                  │
+│  Status         : Online                                     │
+│  Security       : Encrypted                                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# ⚡ SYSTEM MONITOR
+
+```text
+CPU LOAD
+
+██████████████████░░░░ 82%
+
+MEMORY
+
+████████████████░░░░░░ 71%
+
+DISK
+
+████████████████████░░ 90%
+
+NETWORK
+
+██████████████████████ 100%
+
+LINUX
+
+██████████████████████ 100%
+
+AWS
+
+██████████████████░░░░ 80%
+
+DOCKER
+
+████████████████░░░░░░ 70%
+
+KUBERNETES
+
+█████████████░░░░░░░░░ 65%
+
+TERRAFORM
+
+██████████░░░░░░░░░░░░ 55%
+```
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🤖 JARVIS AI | Voice Assistant with AI Integration |
+| ☁ AWS Infrastructure | Cloud Architecture Projects |
+| 🐳 Docker Labs | Docker Containers & Compose |
+| ☸ Kubernetes | Pods, Deployments & Services |
+| 🌍 Terraform | Infrastructure as Code |
+| ⚙ GitLab CI/CD | Automated Deployment Pipelines |
+
+</div>
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+```text
+████████████████████████████████
+
+✔ Master Linux
+
+✔ Master AWS
+
+✔ Build Enterprise DevOps Projects
+
+✔ Learn Kubernetes
+
+✔ Learn Terraform
+
+✔ Build Production Infrastructure
+
+✔ Obtain AWS Certification
+
+✔ Become DevOps Engineer
+
+████████████████████████████████
+```
+
+---
+
+# 🌐 DEVOPS TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,git,github,gitlab,bash,vscode"/>
+
+</div>
+
+---
+
+# 📡 LIVE STATUS
+
+```yaml
+Operating System: Linux
+
+Cloud Provider: AWS
+
+Container Engine: Docker
+
+Orchestration: Kubernetes
+
+Infrastructure: Terraform
+
+CI/CD: GitLab
+
+Version Control: Git
+
+Status: Learning & Building
+
+Availability: Open To Work
+```
+
+---
+
+<div align="center">
+
+# 💻 TERMINAL
+
+</div>
+
+```bash
+$ whoami
+
+Dineshkumar M
+
+$ role
+
+Linux Administrator
+AWS Cloud Engineer
+DevOps Engineer
+
+$ current_project
+
+Jarvis AI Assistant
+
+$ status
+
+Learning...
+Building...
+Deploying...
+Never Giving Up...
+```
+
+---
+
+<div align="center">
+
+## ⚡ "Think. Build. Automate. Repeat."
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0F2027&height=3"/>
+
+</p>
+<!-- ===================================================== -->
+<!--              ⚡ CYBER DEVOPS DASHBOARD                -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+# ⚡ CYBER DEVOPS DASHBOARD
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Initializing+DevOps+Dashboard...;Loading+Cloud+Infrastructure...;Monitoring+Linux+Systems...;Deployment+Pipeline+Ready..."/>
+
+</div>
+
+---
+
+# 🛰 SERVER STATUS
+
+```text
+╔════════════════════════════════════════════╗
+║                                            ║
+║   SERVER          : ONLINE                 ║
+║   CLOUD           : AWS                    ║
+║   TERMINAL        : CONNECTED              ║
+║   SECURITY        : ENABLED                ║
+║   NETWORK         : STABLE                 ║
+║   FIREWALL        : ACTIVE                 ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+---
+
+# ☁ CLOUD INFRASTRUCTURE
+
+```text
+           Internet
+               │
+               ▼
+      ┌────────────────┐
+      │ Load Balancer  │
+      └────────────────┘
+               │
+     ┌─────────┴─────────┐
+     ▼                   ▼
+┌───────────┐      ┌───────────┐
+│ EC2 App 1 │      │ EC2 App 2 │
+└───────────┘      └───────────┘
+          │
+          ▼
+     ┌────────────┐
+     │ Amazon RDS │
+     └────────────┘
+```
+
+---
+
+# 🐧 LINUX TERMINAL
+
+```bash
+$ hostname
+jarvis-devops
+
+$ whoami
+dineshkumar
+
+$ pwd
+/home/devops
+
+$ docker ps
+Running...
+
+$ kubectl get pods
+Running...
+
+$ terraform apply
+Infrastructure Created Successfully
+
+$ gitlab pipeline
+Passed ✔
+
+$ echo "Deployment Successful"
+
+Deployment Successful 🚀
+```
+
+---
+
+# 📊 SKILL MATRIX
+
+| Technology | Progress |
+|------------|----------|
+| 🐧 Linux | ███████████████████ 95% |
+| ☁ AWS | █████████████████ 85% |
+| 🐳 Docker | ███████████████ 80% |
+| ☸ Kubernetes | ████████████ 70% |
+| 🌍 Terraform | ██████████ 65% |
+| ⚙ GitLab CI/CD | ███████████ 75% |
+| 💻 Bash | ███████████████ 85% |
+
+---
+
+# 🚀 CURRENT PROJECTS
+
+<div align="center">
+
+| 🚀 Project | Status |
+|------------|--------|
+| 🤖 Jarvis AI | 🟢 Active |
+| ☁ AWS Infrastructure | 🟢 Active |
+| 🐳 Docker Labs | 🟢 Active |
+| ☸ Kubernetes Labs | 🟡 Learning |
+| 🌍 Terraform | 🟡 Learning |
+| ⚙ GitLab CI/CD | 🟢 Active |
+
+</div>
+
+---
+
+# ⚡ SYSTEM HEALTH
+
+```text
+CPU
+
+████████████████████ 100%
+
+RAM
+
+██████████████████░░ 90%
+
+DISK
+
+████████████████░░░░ 80%
+
+NETWORK
+
+████████████████████ 100%
+
+SECURITY
+
+████████████████████ 100%
+
+BACKUP
+
+██████████████████░░ 90%
+```
+
+---
+
+# 🌍 DEVOPS PIPELINE
+
+```text
+Developer
+     │
+     ▼
+ Git Push
+     │
+     ▼
+ GitLab
+     │
+     ▼
+ Build
+     │
+     ▼
+ Docker
+     │
+     ▼
+ Kubernetes
+     │
+     ▼
+ AWS Cloud
+     │
+     ▼
+ Production
+```
+
+---
+
+<div align="center">
+
+# ⚡ MOTTO
+
+### 🚀 Learn • Build • Automate • Deploy • Repeat
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0F2027&height=4"/>
 
 </p>
